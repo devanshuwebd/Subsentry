@@ -182,3 +182,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Anshdeep Singh
 - **GitHub:** https://github.com/Anshdeep-Singh-9  
 - **About:** I recently watched Vinland Saga!
+
+- **Name:** Devanshu Chotiya
+- **GitHub:** https://github.com/devanshuwebd
+- **About:** Full-Stack Developer
